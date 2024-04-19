@@ -70,4 +70,5 @@ FF14におけるマクロ、カンペをPiPで表示させるツールです。
  
 ## 作者
  
- [@Linn](https://twitter.com/linn_ff14)
+ [@Linn-X](https://twitter.com/linn_ff14)
+ [@Linn-Bluesky](https://bsky.app/profile/linn14.bsky.social)
