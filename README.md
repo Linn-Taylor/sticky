@@ -71,9 +71,3 @@ FF14におけるマクロ、カンペをPiPで表示させるツールです。
 ## 作者
  
  [@Linn](https://twitter.com/linn_ff14)
-
- 
-## ライセンス
- 
-[MIT](http://TomoakiTANAKA.mit-license.org)
-ライセンスを書きます。</blockquote>
