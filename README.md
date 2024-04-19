@@ -1,80 +1,41 @@
-
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
 # ツール・ライブラリの名前
  
 概要概要概要概要概要概要概要概要概要概要概要概要概要概要概要概要
+
+## 使用技術一覧
+
+<!-- シールド一覧 -->
+<!-- 該当するプロジェクトの中から任意のものを選ぶ-->
+<p style="display: inline">
+  <!-- フロントエンドのフレームワーク一覧 -->
+  <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <!-- バックエンドのフレームワーク一覧 -->
+  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
+  <!-- バックエンドの言語一覧 -->
+  <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
+  <!-- ミドルウェア一覧 -->
+  <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white">
+  <!-- インフラ一覧 -->
+  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-githubactions-FFFFFF.svg?logo=github-actions&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-terraform-20232A?style=for-the-badge&logo=terraform&logoColor=844EBA">
+</p>
  
+## 目次
+
+1. [プロジェクトについて](#プロジェクトについて)
+2. [環境](#環境)
+3. [ディレクトリ構成](#ディレクトリ構成)
+4. [開発環境構築](#開発環境構築)
+5. [トラブルシューティング](#トラブルシューティング)
+
+
 ## 簡単な説明
  
 簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
@@ -82,6 +43,9 @@
 簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
 簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
  
+ 
+
+
 ***デモ***
  
 ![デモ](https://image-url.gif)
@@ -128,13 +92,6 @@ $ ~do anything~
 1. デプロイ
 2. デプロイ
 3. デプロイ
- 
-## その他
- 
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
  
 ## 作者
  
