@@ -7,9 +7,9 @@ AUTHENTICATION_BACKENDS = [
 
 DEBUG = True
 LANGUAGE_CODE = "ja"
-# LOGIN_URL = 'login'
-# LOGIN_REDIRECT_URL = 'index'
-# LOGOUT_REDIRECT_URL = LOGIN_URL
+LOGIN_URL = "login"
+LOGIN_REDIRECT_URL = "index"
+LOGOUT_REDIRECT_URL = LOGIN_URL
 SECRET_KEY = "django-insecure-!!a7=hwm7s6hejw7l!lby!4!2l*oc8jb51okjtg&pgauy=ihup"
 WSGI_APPLICATION = "sticky.wsgi.application"
 TIME_ZONE = "Asia/Tokyo"
@@ -21,7 +21,7 @@ USE_TZ = False
 ALLOWED_HOSTS = []
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 ROOT_URLCONF = "sticky.urls"
-# STATIC_URL = "/static"
+STATIC_URL = "/static/"
 
 # INstallApps
 
