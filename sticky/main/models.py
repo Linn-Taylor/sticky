@@ -7,7 +7,7 @@ from django.db import models
 
 
 class UserManager(BaseUserManager):
-    """
+    """runn
     define classes to create user models create users based on given fields
     """
 
@@ -46,7 +46,7 @@ class User(AbstractBaseUser, PermissionsMixin):
     REQUIRED_FIELDS = ["userid", "admin"]
 
     @property
-    def is_staff(self):
+    def is_admin(self):
         return self.is_admin
 
     def has_perm(self, perm, obj=None):
