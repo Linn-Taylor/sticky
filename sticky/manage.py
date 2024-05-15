@@ -5,7 +5,10 @@ import sys
 
 
 def main():
-    # 本番環境
+    # production environment
+    # os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sticky.settings")
+
+    # development environment
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sticky.settings")
 
     try:
